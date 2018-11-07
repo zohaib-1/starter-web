@@ -1,5 +1,6 @@
 # Starter Web Repo
 
+
 This repository is for showing how Git and GitHub work
 
 This is the new paragraph
@@ -23,3 +24,5 @@ This is the deployment section.
 This is the maintenance section description.
 
 Changes made here.
+
+more changes
