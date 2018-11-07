@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 
 This is the new paragraph
 
+More text for comparison.
+
 ## Introduction
 
 This is the introduction text.
